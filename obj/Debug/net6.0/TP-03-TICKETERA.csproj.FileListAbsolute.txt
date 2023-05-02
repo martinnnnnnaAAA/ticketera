@@ -1,0 +1,15 @@
+Z:\TP-03-TICKETERA\bin\Debug\net6.0\TP-03-TICKETERA.exe
+Z:\TP-03-TICKETERA\bin\Debug\net6.0\TP-03-TICKETERA.deps.json
+Z:\TP-03-TICKETERA\bin\Debug\net6.0\TP-03-TICKETERA.runtimeconfig.json
+Z:\TP-03-TICKETERA\bin\Debug\net6.0\TP-03-TICKETERA.dll
+Z:\TP-03-TICKETERA\bin\Debug\net6.0\TP-03-TICKETERA.pdb
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\TP-03-TICKETERA.csproj.AssemblyReference.cache
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\TP-03-TICKETERA.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\TP-03-TICKETERA.AssemblyInfoInputs.cache
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\TP-03-TICKETERA.AssemblyInfo.cs
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\TP-03-TICKETERA.csproj.CoreCompileInputs.cache
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\TP-03-TICKETERA.dll
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\refint\TP-03-TICKETERA.dll
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\TP-03-TICKETERA.pdb
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\TP-03-TICKETERA.genruntimeconfig.cache
+Z:\TP-03-TICKETERA\obj\Debug\net6.0\ref\TP-03-TICKETERA.dll
